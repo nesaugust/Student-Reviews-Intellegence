@@ -34,19 +34,19 @@ Upload actual report screenshots to the paths below. These images are static pre
 
 Review counts, courses covered, average ratings, theme frequency, sentiment composition, and historical review volume.
 
-![Student Feedback Overview](images/overview.png)
+![Student Feedback Overview](images/Overview.png)
 
 ### Feedback Evidence
 
 Course, theme, and sentiment filters let users inspect supporting quotations alongside full comments.
 
-![Feedback Evidence](images/evidence.png)
+![Feedback Evidence](images/Evidence.png)
 
 ### Model Evaluation
 
 Overall and per-theme agreement metrics, with training and test support counts.
 
-![Model Evaluation](images/model.png)
+![Model Evaluation](images/Model.png)
 
 ## Technology Stack
 
