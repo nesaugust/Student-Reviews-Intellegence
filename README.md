@@ -20,7 +20,7 @@ the supporting quotations and full reviews.
 Evaluation of the TF-IDF and Logistic Regression baseline
 against LLM-generated pseudo-labels.
 
-![Model Evaluation](images/Model Evaluation.png)
+![Model Evaluation](images/Model.png)
 
 These metrics measure agreement with LLM-generated labels,
 not accuracy against independent human annotations.
